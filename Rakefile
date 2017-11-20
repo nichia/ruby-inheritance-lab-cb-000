@@ -1,6 +1,6 @@
-require_relative "./lib/student"
-require_relative "./lib/teacher"
-require_relative "./lib/user"
+require_relative "./lib/student.rb"
+require_relative "./lib/teacher.rb"
+require_relative "./lib/user.rb"
 
 require "pry"
 require "rake"
