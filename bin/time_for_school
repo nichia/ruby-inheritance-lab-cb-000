@@ -24,6 +24,9 @@ some_knowledge = avi.teach
 some_more_knowledge = avi.teach
 
 steve.learn(some_knowledge)
+
+#jim.learn(some_knowledge )  ==> error, undefined method learn
+
 rebecca.learn(some_knowledge)
 rebecca.learn(some_more_knowledge)
 steve.learn(some_more_knowledge)
